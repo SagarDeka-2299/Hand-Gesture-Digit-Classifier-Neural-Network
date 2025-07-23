@@ -6,6 +6,8 @@ This project aims to develop a deep learning model capable of recognizing sign l
 
 # Dataset
 
+dataset link: [kareemabdelhamed/sign-language-digits-images-dataset](https://www.kaggle.com/datasets/kareemabdelhamed/sign-language-digits-images-dataset)
+
 The dataset used for this project is the **Sign Language Digits Images Dataset** from Kaggle. It contains images of hand gestures representing digits from 0 to 9.
 
 <img width="894" height="504" alt="Sign Language Digit Recognition" src="https://github.com/user-attachments/assets/76dde5b2-1c0d-402a-a2dc-8f72a827b409" />
