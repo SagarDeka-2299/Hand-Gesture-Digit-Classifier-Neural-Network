@@ -57,6 +57,18 @@ The **classification report** below presents key metrics including precision, re
 
 The **ROC AUC score (macro-average)** is 0.996. This metric assesses the model's ability to distinguish between classes across various threshold settings, with a score closer to 1 indicating better discriminative power.
 
+# Inference
+
+## Setup:
+* create python virtual environment and activate it.
+* clone this repo.
+* run: ```pip install -r requirements.txt```
+* run the inference script: ```python infenece.py```
+
+It runs a gradio app where we can upload hand gesture image and submit to get answer and probability distribution for all the digits.
+
+<img width="1440" height="900" alt="Screenshot 2025-07-24 at 12 37 28 AM" src="https://github.com/user-attachments/assets/ce016625-ca13-497e-9a9a-114fe8c59080" />
+
 
 # Conclusion
 
